@@ -1,0 +1,24 @@
+body {
+	font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+	color: white;
+	background: #333333;
+	overflow-x: hidden;
+}
+
+a, a:hover, a:hover, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+#msgbox < ul, #msgbox < ul < li {
+	display: inline;
+}
+
+#msgbox {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+#form {
+    background: #333333;
+}
